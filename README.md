@@ -1,4 +1,4 @@
-# Energy-based models for atomic-resolution protein conformations
+# Energy-based models for atomic-resolution protein conformations (local)
 Pytorch implementation of [Energy-based models for atomic-resolution protein conformations](https://openreview.net/forum?id=S1e_9xrFvS), accepted to ICLR 2020 (with spotlight). Includes training code, models, datasets, and pre-trained model weights.
 
 ![Framework overview](https://dl.fbaipublicfiles.com/protein-ebm/framework_overview.png)
